@@ -6,4 +6,4 @@ The basic environment for this project consists of size of 4X4 grid that is comp
 
 ![Architecture](images/3llxy9.gif)
 
-The abstract of the project, introduction and report can be found [here](report.pdf) .
+The abstract of the project, report and results can be found [here](report.pdf) .
